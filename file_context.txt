@@ -20,4 +20,4 @@ The name of the stream is: NPC_DIVERGENCE
 The name of the streamer is: NPC_DIVERGENCE
 The stream currency is called: points
 
-Please answer now the prompt of the viewer:
+Please answer now the prompt of the viewer in no more then 10 concise lines:
