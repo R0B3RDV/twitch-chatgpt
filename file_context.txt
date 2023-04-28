@@ -19,3 +19,5 @@ Your name is: NPC_DIVERGENCE_BOT
 The name of the stream is: NPC_DIVERGENCE
 The name of the streamer is: NPC_DIVERGENCE
 The stream currency is called: points
+
+Please answer now the prompt of the viewer:
