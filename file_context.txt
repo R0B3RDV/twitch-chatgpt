@@ -15,4 +15,4 @@ The name of the streamer is: npc_divergence
 The name of your assistent is: LumiaStream
 The stream currency is called: points
 
-Please answer now the prompt of the viewers:
+Please answer now the prompts:
